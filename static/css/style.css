@@ -234,6 +234,7 @@ a.uppercase {
 }
 
 
+
 /*-------------Om Marie */
 
 h1.padding-top {
@@ -248,4 +249,85 @@ div.col-sm-12.col-lg-6 {
 
 div h5 {
     padding-bottom: 10%;
+}
+
+/*--------------- Kontakt */
+.borderline {
+    border: 1px solid rgb(60, 63, 54);
+    border-radius: 5px;
+    padding: 5%;
+}
+
+div.col-sm-12.col-md-6.padding-extra {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+div.container.top-padding {
+    padding-top: 2.5%;
+}
+
+div.col-12.padding-top {
+    padding-top: 3%;
+}
+
+a button.btn.btn-primary.btn-lg {
+    background-color: rgb(60, 63, 54); 
+    border-color: rgb(60, 63, 54);
+}
+
+div.col-4.offset-4 {
+    text-align: center;
+}
+
+i.fa.fa-mobile {
+    transform: scale(3);
+}
+
+i.fa.fa-envelope {
+    transform: scale(2.5);
+}
+
+h4 {
+    text-align:center;
+}
+
+div.col-8.offset-2 {
+    text-align: center;
+}
+
+
+
+/*---------- Kurs */
+
+.extra-padding {
+    padding-top: 7.5%;
+    
+}
+
+.text-fix {
+    text-shadow: 2px 2px 4px #ffffff;
+}
+
+div.col-sm-12.col-lg-4 {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+div.card {
+    width: auto;
+}
+
+a.btn.btn-primary {
+    background-color: rgb(60, 63, 54);
+}
+
+.btn-primary {
+    border-color: rgb(60, 63, 54);
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+    background-color: rgb(60, 63, 54);
+    border-color: rgb(60, 63, 54);
 }
