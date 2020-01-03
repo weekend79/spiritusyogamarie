@@ -39,7 +39,7 @@ body {
 }
 
 .background-img { 
-  background: url("/static/images/bridge-backwards.jpeg") no-repeat center center fixed; 
+  background: url("https://i.imgur.com/RH6glJq.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -48,7 +48,7 @@ body {
 }
 
 .background-img-two { 
-  background: url("/static/images/bridge-backwards.jpeg") no-repeat center center fixed; 
+  background: url("https://i.imgur.com/RH6glJq.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -139,7 +139,7 @@ div.col-sm-8.offset-sm-2.col-md-8.offset-md-2.col-lg-8.offset-lg-2.col-xl-8.offs
 }
 
 .hero-image {
-  background-image: url("/static/images/box-img-one.jpg");
+  background-image: url("https://i.imgur.com/tLmp7ta.jpg");
   background-color: #cccccc;
   height: 400px;
   background-position: center;
@@ -150,7 +150,7 @@ div.col-sm-8.offset-sm-2.col-md-8.offset-md-2.col-lg-8.offset-lg-2.col-xl-8.offs
 }
 
 .hero-image-one {
-  background-image: url("/static/images/box-img-two.jpg");
+  background-image: url("https://i.imgur.com/z5Cd3ru.jpg");
   background-color: #cccccc;
   height: 400px;
   background-position: center;
@@ -161,7 +161,7 @@ div.col-sm-8.offset-sm-2.col-md-8.offset-md-2.col-lg-8.offset-lg-2.col-xl-8.offs
 }
 
 .hero-image-two {
-  background-image: url("/static/images/arms-above-head-2.jpeg");
+  background-image: url("https://i.imgur.com/EMNIZID.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
