@@ -264,6 +264,10 @@ h1.padding-top {
     padding-top: 5%;
 }
 
+#extra-about-style {
+    padding-top: 2%;
+}
+
 div.col-sm-12.col-lg-6 {
     padding-top: 2%;
     padding-bottom: 2%;
@@ -272,6 +276,8 @@ div.col-sm-12.col-lg-6 {
 .rounded-circle.extra-styling {
     height: 300px;
     width: 300px;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 div h5 {
