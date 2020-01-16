@@ -261,13 +261,17 @@ a.uppercase {
 /*-------------Om Marie */
 
 h1.padding-top {
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
 div.col-sm-12.col-lg-6 {
     padding-top: 2%;
     padding-bottom: 2%;
     border-bottom: 1px solid rgb(60, 63, 54);
+}
+.rounded-circle.extra-styling {
+    height: 300px;
+    width: 300px;
 }
 
 div h5 {
